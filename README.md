@@ -1,91 +1,255 @@
-Hi 👋, I'm Tejash Sharma
+# 👋 Hi, I'm Tejash Sharma
 
-🚀 Full-Stack Developer | Cyber Security Enthusiast | MERN Developer
+### 🚀 Cyber Security Student | Full-Stack Developer | MERN Stack Explorer | Tech Enthusiast
 
-────────────────────────────────────────
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cyber+Security+Student;Full-Stack+Developer;MERN+Stack+Developer;JavaScript+Enthusiast;Always+Learning+%26+Building" />
+</p>
 
-💡 About Me
+---
 
-🎓 B.Tech Cyber Security Student
-💻 Full-Stack / MERN Developer
-🔐 Passionate about Cyber Security & Ethical Hacking
-🤖 Exploring AI & Machine Learning
-🌐 Building modern web applications
-📸 Photography & Creative Editing enthusiast
-🌱 Always learning and experimenting
-🎯 Building secure, useful and impactful applications
+## 💡 About Me
 
-────────────────────────────────────────
+- 🎓 Pursuing **B.Tech in Cyber Security** at Faculty of Technology, Uttarakhand Technical University
+- 💻 Passionate about **Full-Stack Development, Cyber Security & Modern Web Applications**
+- ⚛️ Building applications using **React.js, JavaScript, Node.js, Express.js & MongoDB**
+- 🔐 Exploring **Cyber Security, Ethical Hacking, Network Security & Linux**
+- 🌐 Interested in **MERN Stack Development & Backend Engineering**
+- 🎨 Creative enthusiast with an interest in **Photography, Adobe Photoshop & Video Editing**
+- 🚀 Love building projects that combine **technology, creativity and real-world problem solving**
+- 🧠 Always learning, experimenting and improving my development skills
+- 🎯 Goal: Become a skilled **Full-Stack Developer & Cyber Security Professional**
 
-🛠️ Skills & Tools
+---
 
-🚀 Programming Languages
-[ Python ] [ JavaScript ] [ Java ] [ C++ ]
+# 🛠️ Skills & Tools
 
-🎨 Frontend
-[ React ] [ HTML5 ] [ CSS3 ] [ Tailwind CSS ] [ Bootstrap ]
+## 💻 Programming Languages
 
-⚙️ Backend
-[ Node.js ] [ Express.js ] [ FastAPI ] [ REST API ]
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
 
-🗄️ Database
-[ MongoDB ] [ MySQL ] [ Mongoose ]
+## 🌐 Frontend Development
 
-🔐 Cyber Security
-[ Linux ] [ Kali Linux ] [ Networking ] [ Cryptography ]
-[ Ethical Hacking ] [ Web Security ]
+<p>
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white"/>
+</p>
 
-🔧 Tools
-[ Git ] [ GitHub ] [ VS Code ] [ Postman ] [ Docker ]
+## ⚙️ Backend Development
 
-────────────────────────────────────────
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+</p>
 
-🚀 Featured Projects
+## 🗄️ Database
 
-🛡️ PhishGuard AI
-AI-powered phishing detection platform
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-🎓 StudentHub
-MERN-based Student Information Management System
+## 🔐 Cyber Security
 
-🎨 CoverCraft
-AI-powered academic cover page builder
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cyber_Security-111111?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+</p>
 
-🚗 DriveSure
-Car Insurance Management System
+## 🧰 Tools & Platforms
 
-🌐 Personal Portfolio
-Full-stack portfolio built with React, Node.js,
-Express & MongoDB
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</p>
 
-────────────────────────────────────────
+---
 
-📊 GitHub Statistics
+# 🚀 Featured Projects
 
-GitHub Stats
-Top Languages
-GitHub Streak
+## 🧑‍🎓 StudentHub
 
-────────────────────────────────────────
+### Student Registration & Management System
 
-🌱 Currently Learning
+A full-stack student management platform designed to manage student registration and academic information.
 
-• Advanced React
-• Node.js & Backend Architecture
-• Cyber Security
-• AI / Machine Learning
-• Cloud Computing
-• Docker & DevOps
+**Features:**
 
-────────────────────────────────────────
+- 👤 Student registration & profile management
+- 🔐 Secure authentication
+- 🖼️ Profile image upload & preview
+- 👨‍💼 Admin dashboard
+- 🎓 Student dashboard
+- 📊 Student record management
+- 🗄️ MongoDB database
+- ⚛️ React.js frontend
+- 🟢 Node.js + Express.js backend
 
-🤝 Connect With Me
+<p>
+<a href="YOUR_STUDENTHUB_RENDER_URL">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</a>
 
-LinkedIn
-GitHub
-Instagram
-Portfolio
+<a href="YOUR_STUDENTHUB_GITHUB_URL">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-────────────────────────────────────────
+---
 
-✨ Build • Learn • Secure • Create ✨
+## 🚗 DriveSure
+
+### Car Insurance Management System
+
+A MERN-based management system designed for a car insurance company.
+
+**Features:**
+
+- 👥 Customer management
+- 🚘 Vehicle management
+- 📄 Insurance policy management
+- 📋 Claim tracking
+- 💳 Payment management
+- 🔐 JWT authentication
+- 📊 Dashboard statistics
+- 📑 PDF policy certificate generation
+- 🔒 Secure backend APIs
+
+<p>
+<a href="https://drivesure-1.onrender.com">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</a>
+
+<a href="https://github.com/tejash051102/DriveSure">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🎨 CoverCraft
+
+### Academic Cover Page & Document Builder
+
+A Canva-inspired platform designed for students to create professional academic documents.
+
+**Use Cases:**
+
+- 📘 Assignment covers
+- 📚 Practical files
+- 📑 Project reports
+- 💼 Internship reports
+- 🎓 Academic documents
+
+**Technology:**
+
+`React.js` • `Fabric.js` • `FastAPI` • `MongoDB`
+
+<p>
+<a href="YOUR_COVERCRAFT_RENDER_URL">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</a>
+
+<a href="YOUR_COVERCRAFT_GITHUB_URL">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tejash051102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="180"/>
+
+<img src="https://streak-stats.demolab.com/?user=tejash051102&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejash051102&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejash051102&theme=tokyo-night&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:sharmatejash868@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/tejash051102/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tejash051102/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/tejash051102">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🤝 Let's Build Something Together
+
+<p align="center">
+
+💻 Full-Stack Development &nbsp; • &nbsp;
+🔐 Cyber Security &nbsp; • &nbsp;
+🚀 Open Source &nbsp; • &nbsp;
+🤖 Technology &nbsp; • &nbsp;
+📸 Creativity
+
+</p>
+
+---
+
+<p align="center">
+
+### 🚀 Build. Learn. Secure. Create.
+
+</p>
+
+<p align="center">
+
+⭐ From <a href="https://github.com/tejash051102">Tejash Sharma</a>
+
+</p>
