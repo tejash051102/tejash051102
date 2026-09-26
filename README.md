@@ -28,8 +28,6 @@
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
 ## 🌐 Frontend Development
@@ -172,33 +170,49 @@ A Canva-inspired platform designed for students to create professional academic 
 
 ---
 
+---
+
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tejash051102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="180"/>
-
-<img src="https://streak-stats.demolab.com/?user=tejash051102&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=tejash051102&theme=tokyonight&hide_border=true" />
 
 </p>
 
 ---
 
-# 💻 Most Used Languages
+# 💻 GitHub Profile
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejash051102&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
+<a href="https://github.com/tejash051102">
+<img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/tejash051102?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View%20Projects-238636?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/tejash051102?tab=followers">
+<img src="https://img.shields.io/badge/Followers-Connect-8957E5?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contributions
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejash051102&theme=tokyo-night&hide_border=true&area=true"/>
+<a href="https://github.com/tejash051102">
+<img src="https://img.shields.io/github/commit-activity/y/tejash051102?style=for-the-badge&logo=github&label=YEARLY%20COMMITS"/>
+</a>
+
+<a href="https://github.com/tejash051102">
+<img src="https://img.shields.io/github/last-commit/tejash051102/tejash051102?style=for-the-badge&logo=github&label=PROFILE%20UPDATED"/>
+</a>
 
 </p>
 
